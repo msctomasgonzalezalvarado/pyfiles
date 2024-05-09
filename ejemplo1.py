@@ -10,7 +10,7 @@ class Auto:
         print("Este es un método público");
 
     def autoavanza(selft):
-            print("El auto está avanzando")
+            print("El auto está avanzando dos kilometros")
 
 #se instancía un objeto
 taxi = Auto()
